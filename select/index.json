@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "リフレクティア",
+  "base_artist": "eufonius",
+  "createdAt": "2026-01-14T02:01:07.074579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リフレクティア",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/01_リフレクティア_eufonius.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リフレクティア",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/02_リフレクティア_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リフレクティア",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/03_リフレクティア_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リフレクティア (合唱版)",
+      "artist": "白浜坂高校合唱部",
+      "has_synced": true,
+      "path": "select/04_リフレクティア_(合唱版)_白浜坂高校合唱部.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リフレクティア(instrumental)",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/05_リフレクティア(instrumental)_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リフレクティア",
+      "artist": "三浦あずさ",
+      "has_synced": false,
+      "path": "select/06_リフレクティア_三浦あずさ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リフレクティア",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/07_リフレクティア_eufonius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リフレクティア",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/pl_01_リフレクティア_eufonius.txt"
+    }
+  ]
+}
